@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from 'react-router'
 import { Toaster } from 'react-hot-toast'
-import ProductList from './components/productList'
+import ProductList from './components/ProductList'
 import ProductForm from './components/ProductForm'
 import Header from './components/Header'
 
